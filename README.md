@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| **GitHub Repository** | https://github.com/<your-github-username>/ml-assignment-2 |
-| **Live Streamlit App** | https://<your-app-name>.streamlit.app |
+| **GitHub Repository** | https://github.com/2026aj05283/Assignment_2_ML |
+| **Live Streamlit App** | https://assignment2ml-emrvtgonnkcvrie8x9ogws.streamlit.app |
 
 ---
 
